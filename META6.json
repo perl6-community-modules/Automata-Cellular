@@ -1,11 +1,25 @@
 {
-  "perl" : "6.*",
-  "name" : "Automata::Cellular",
-  "version" : "0.2.2",
-  "description" : "Cellular Automata in Perl6",
-  "provides" : {
-    "Automata::Cellular" : "lib/Automata/Cellular.pm6"
+  "authors": [
+    "David Brunton",
+    "Tommy Brunton"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Cellular Automata in Raku",
+  "license": "NOASSERTION",
+  "name": "Automata::Cellular",
+  "perl": "6.*",
+  "provides": {
+    "Automata::Cellular": "lib/Automata/Cellular.rakumod"
   },
-  "authors" : ["David Brunton", "Tommy Brunton"],
-  "source-url" : "git://github.com/dbrunton/Automata-Cellular.git"
+  "resources": [
+  ],
+  "source-url": "https://github.com/raku-community-modules/Automata-Cellular.git",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.2.2"
 }
