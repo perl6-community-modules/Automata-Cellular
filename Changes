@@ -1,4 +1,6 @@
 Revision history for Automata::Cellular
 
 {{$NEXT}}
+
+0.2.3  2024-12-13T14:18:12+01:00
     - Initial version as a Raku Community module
